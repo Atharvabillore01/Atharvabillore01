@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atharvabillore01
 - 👀 I’m interested in Machine learning and Artificial Intelligence 
 - 🌱 I’m currently learning Python 
-- 📫 How to reach me mobile number - 9340342592 , Link - https://www.linkedin.com/in/atharva-billore-b6b92120a/ 
+- 📫 You can reach my mobile number - 9340342592 , Linkedin - https://www.linkedin.com/in/atharva-billore-b6b92120a/ 
 
 <!---
 Atharvabillore01/Atharvabillore01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
