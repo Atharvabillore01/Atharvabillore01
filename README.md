@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atharvabillore01
-- 👀 I’m interested in Machine learning and Artificial Intelligence 
 - 🌱 I’m currently working on Java and .net 
+- 👀 I’m interested in Machine learning and Artificial Intelligence 
 - 📫 You can reach my mobile number - 9340342592 , Linkedin - https://www.linkedin.com/in/atharva-billore-b6b92120a/ 
 
 <!---
